@@ -1,0 +1,22 @@
+.search-form {
+    width: 80%;
+    align-self: center;
+    margin: 8px;
+    padding: 5px;
+    border-radius: 4px;
+    box-shadow: 4px;
+    background-color: rgba(100,100,100,0.3)
+}
+
+.text-box {
+    width: 90%;
+    margin: 3px;
+    padding: 2px;
+}
+
+.submit {
+    width: 8%;
+    margin-left: 8px;
+    align-self: center;
+    vertical-align: middle;
+}

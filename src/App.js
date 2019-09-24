@@ -1,10 +1,10 @@
 import React from 'react';
-import Subreddit from './Subreddit';
+import SearchSubreddit from './Components/SearchSubreddit';
 
 function App() {
   return (
     <div className="App">
-        <Subreddit />
+        <SearchSubreddit />
     </div>
   );
 }
